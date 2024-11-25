@@ -1,0 +1,25 @@
+@media (max-width: 64em){
+    
+}
+@media (max-width: 20em){
+    .containerC{
+        flex-direction: column;
+       align-items: center;
+    }
+    .container2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .container4{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .containerabc{
+        flex-direction: column;
+        align-items: center;
+    }
+    /* .box4{
+        width: 800px;
+        height: 382px;
+    } */
+}

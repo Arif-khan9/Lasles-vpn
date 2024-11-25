@@ -1,0 +1,501 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family:'Rubik';
+}
+
+.container {
+    width: 1200px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 0px 50px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.box {
+    display: flex;
+
+}
+
+.btnsign {
+   border: unset;
+   background-color: unset;
+   margin-right: 21px;
+   font-weight: bold;
+}
+
+.btnsign2 {
+   padding: 10px 30px;
+   border: 1px solid #F53855;
+   border-radius: 50px;
+   background-color: unset;
+   color: #F53855;
+}
+
+.LaslesVPN {
+    margin-top: 6px;
+    margin-left: 8px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.vpn {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+ul {
+    list-style: none;
+}
+
+.box1 a {
+    margin: 13px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4F5665;
+
+}
+
+.box3 {
+    display: flex;
+    gap: 5px;
+}
+
+.box4 {
+    width: 600px;
+    height: 382px;
+    background-color: unset;
+}
+
+.img {
+    width: 600px;
+    height: 382px;
+}
+
+.container2 {
+    display: flex;
+    margin-top: 100px;
+}
+
+.anything {
+    font-size: 55px;
+    font-weight: 500;
+}
+
+.LaslesVPN1 {
+    font-weight: 700;
+}
+
+.interesting {
+    font-size: 18px;
+    margin-top: 30px;
+    font-weight: 400;
+}
+
+.btn {
+    background-color: #F53838;
+    width: 250px;
+    height: 60px;
+    border: 1px solid #F53838;
+    color: white;
+    border-radius: 10px;
+    margin-top: 5rem;
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.2);
+}
+
+.container3 {
+    height: 120px;
+    background-color: unset;
+    margin-top: 60px;
+    display: flex;
+}
+
+.box5 {
+    height: 120px;
+    width: 400px;
+    background-color: unset;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.2);
+}
+
+.box6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: unset;
+    width: 400px;
+    height: 90px;
+    margin-top: 15px;
+    border-right: 1px solid #bbbcc0;
+}
+
+.box7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: unset;
+    width: 400px;
+    height: 90px;
+    margin-top: 15px;
+}
+
+.icon {
+    height: 55px;
+    width: 55px;
+    color: #F53838;
+}
+
+.onethe {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.users {
+    font-size: 20px;
+    font-weight: 400;
+    color: #4F5665;
+}
+
+.box8 {
+    width: 560px;
+    height: 400px;
+    background-color:unset;
+}
+
+.container4 {
+    display: flex;
+    margin-top: 90px;
+    gap: 90px;
+     /* box-shadow: 0px 6px 13px rgba(0, 0, 0, 0.2); */
+   
+}
+
+.img2 {
+    width: 560px;
+    height: 382px;
+}
+
+.Provide {
+    font-size: 46px;
+    font-weight: 550;
+}
+
+.functions {
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+    color: #4F5665;
+
+}
+
+.powerful {
+    margin-top: 23px;
+    color: #4F5665;
+
+}
+
+.icon3 {
+    color: white;
+    height: 24px;
+    width: 24px;
+    background-color: forestgreen;
+    border-radius: 50px;
+
+}
+
+.online {
+    margin-left: 12px;
+    position: relative;
+    bottom: 7px;
+}
+.containerA{
+    width: 1200px;
+    background-color:white;
+   padding: 0px 50px;
+    margin: 0 auto; 
+}
+.containerB{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   padding-top: 4rem;
+}
+.Choose{
+    font-size: 35px;
+    font-weight: 500;
+}
+.package{
+    font-size: 18px;
+    margin-top: 20px;
+    color: #4F5665;
+    font-size: 16px;
+    font-weight: 400;
+}
+.cheerfully{
+    margin-left: 14rem;
+   position: relative;
+   top: 9px;
+   color: #4F5665;
+   font-size: 16px;
+    font-weight: 400;
+}
+.boxC{
+    width: 360px;
+    height: 760px;
+    background-color: unset;
+    border: 2px solid #4F5665;
+   border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.boxD{
+    width: 360px;
+    height: 760px;
+    background-color: unset;
+    border: 2px solid #F53838;
+   border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.containerC{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 50px;
+}
+.img3{
+  padding-top: 80px;
+  width: 144.9px;
+  height: 165.36px;
+}
+.freeplan{
+    padding-top: 30px;
+    font-size: 22px;
+}
+.unlimited{
+    padding-top: 20px;
+   
+}
+.free1{
+    padding-top: 10rem;
+    font-size: 22px;
+}
+.btnselect{
+    padding: 8px 40px;
+    color: #F53838;
+    border: 1px solid #F53838 ;
+    border-radius: 50px;
+    margin-top: 21px;
+}
+.btnselect1{
+    padding: 8px 40px;
+    color: white;
+    border: 1px solid #F53838 ;
+    border-radius: 50px;
+    margin-top: 21px; 
+    background-color: #F53855;
+}
+.icon54{
+    color: green;
+    font-size: 19px;
+    margin-top: 3px;
+    margin-right: 5px;
+
+}
+.Bandwitch{
+    margin-left: 5px;
+}
+.img4{
+    height: 300px;
+    width: 1200px;
+    margin-top: 8rem;
+}
+.containerw{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 7rem;
+}
+.fastvpn{
+    margin-left: 4rem;
+    position: relative;
+    top: 5px;
+}
+.locations1{
+    margin-left: 13rem;
+   position: relative;
+   top: 7px;
+}
+.containers{
+    display: flex;
+    justify-content: space-between;
+}
+.containerL{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pleasure{
+    margin-left: 7rem;
+   position: relative;
+   top: 10px;
+}
+.happyCos{
+    margin-left: 4rem;
+    position: relative;
+    top: 7px;
+}
+.stories{
+    margin-top: 29px;
+}
+.boxabc{
+    width: 380px;
+    height: 200px;
+    background-color: unset;
+    border: 1px solid #F53855;
+    border-radius: 10px;
+}
+.boxabd{
+    width: 380px;
+    height: 200px;
+    background-color: unset;
+    border: 1px solid #bbbcc0;
+    border-radius: 10px; 
+}
+.containerabc{
+    display: flex;
+    margin-top: 40px;
+    gap: 30px;
+}
+.container123{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.Ellipse{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.viezh{
+    margin-top: 30px;
+    margin-right: 6rem;
+    font-weight: bold;
+}
+.Warsaw{
+    font-size: 12px;
+    font-weight: 20;
+   
+}
+.Vector{
+    margin-right: 27px;
+    margin-top: 30px;
+}
+.fourfive{
+   
+    margin-right: 5px;
+}
+.expectations{
+    margin-top: 15px;
+    margin-left: 30px;
+    
+}
+.box010{
+    width: 1050px;
+    height: 160px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20rem;
+    box-shadow: 0px 6px 13px rgba(0, 0, 0, 0.2);
+    position: relative;
+    bottom: 80px;
+}
+.container010{
+    display: flex;
+    justify-content: center;
+   position: relative;
+   top: 9.4rem;
+}
+.container4567{
+    width: 1242px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 50px;
+}
+.box4567{
+    width: 210px;
+    height: 250px;
+    background-color: unset;
+    margin-top: 70px;
+    
+    
+}
+.box4568{
+    width: 340px;
+    height: 250px;
+    background-color: unset;
+    margin-top: 70px; 
+}
+.subscribe{
+    font-size: 15px;
+    font-weight: 40;
+}
+.btn1{
+    background-color: #F53838;
+    width: 250px;
+    height: 60px;
+    border: 1px solid #F53838;
+    color: white;
+    border-radius: 10px;
+    margin-top: 5rem;
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.2);  
+    position: relative;
+    bottom: 38px;
+}
+.LaslesVPN2{
+    margin-left: 48px;
+    position: relative;
+    bottom: 21px;
+}
+.img098{
+ position: relative;
+ top: 9px;
+}
+.footer12{
+    color: #bbbcc0;
+}
+.vpn2{
+    font-weight: bold;
+}
+.fbinstatwiter{
+    padding: 10px 10px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 50px;
+    color: #F53838;
+    margin: 30px 5px;
+}
+.product34{
+    margin-top: 10px;
+    margin-left: 7.6rem;
+    color:#4F5665;
+}
